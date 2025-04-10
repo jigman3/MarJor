@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarJor API", "MarJor API\MarJor API.csproj", "{08200957-01D6-417E-B6D7-4FA073A52443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08200957-01D6-417E-B6D7-4FA073A52443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08200957-01D6-417E-B6D7-4FA073A52443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08200957-01D6-417E-B6D7-4FA073A52443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08200957-01D6-417E-B6D7-4FA073A52443}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6D1DB80-F1F8-41F3-BAA0-FE6FA63DD48D}
+	EndGlobalSection
+EndGlobal
