@@ -1,0 +1,52 @@
+# ============================
+# Node / Angular specific
+# ============================
+node_modules/
+dist/
+.tmp/
+.angular/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ============================
+# .NET specific
+# ============================
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio / Rider settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Others
+*.dbmdl
+*.pdb
+*.cache
+*.log
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Azure / IIS
+*.Publish.xml
+*.azurePubxml
+.publish/
+App_Data/
+/.vs/MarJor/v17/.wsuo
