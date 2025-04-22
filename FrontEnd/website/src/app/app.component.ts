@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { AboutUsComponent } from './about-us/about-us.component';
 
@@ -8,6 +8,15 @@ import { AboutUsComponent } from './about-us/about-us.component';
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
-export class AppComponent {
+export class AppComponent  implements OnInit{
   title = 'website';
+  /**
+   *
+   */
+  constructor() {
+    debugger;
+  }
+  ngOnInit(): void {
+    debugger
+  }
 }
